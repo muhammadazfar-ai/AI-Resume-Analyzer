@@ -45,34 +45,19 @@ The application analyzes resumes, extracts skills, evaluates strengths and weakn
 \- Pandas
 
 \- Regular Expressions
+## 📸 Project Screenshots
 
+### Home Interface
 
+<img src="./screenshots/home.png" width="700">
 
-\## 📷 Project Screenshots
+### Resume Upload
 
+<img src="./screenshots/upload.png" width="700">
 
+### AI Generated Report
 
-\### Home Interface
-
-
-
-!\[Home UI](./screenshots/home.png)
-
-
-
-\### Resume Upload
-
-
-
-!\[Upload UI](./screenshots/upload.png)
-
-
-
-\### AI Generated Report
-
-
-
-!\[AI Report](./screenshots/report.png)
+<img src="./screenshots/report.png" width="700">
 
 
 
