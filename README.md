@@ -56,7 +56,7 @@ The application analyzes resumes, extracts skills, evaluates strengths and weakn
 
 
 
-!\[Home UI](screenshots/home.png)
+!\[Home UI](./screenshots/home.png)
 
 
 
@@ -64,7 +64,7 @@ The application analyzes resumes, extracts skills, evaluates strengths and weakn
 
 
 
-!\[Upload UI](screenshots/upload.png)
+!\[Upload UI](./screenshots/upload.png)
 
 
 
@@ -72,7 +72,7 @@ The application analyzes resumes, extracts skills, evaluates strengths and weakn
 
 
 
-!\[AI Report](screenshots/report.png)
+!\[AI Report](./screenshots/report.png)
 
 
 
