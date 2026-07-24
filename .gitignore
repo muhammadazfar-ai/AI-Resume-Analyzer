@@ -1,3 +1,18 @@
+# Environment variables
 .env
-tempCodeRunnerFile.py
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
