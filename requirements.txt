@@ -1,5 +1,5 @@
-streamlit==1.60.0
-pandas
+streamlit
 PyMuPDF
+pandas
 groq
 python-dotenv

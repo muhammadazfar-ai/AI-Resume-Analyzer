@@ -63,7 +63,7 @@ def analyze_resume_with_ai(resume_text, job_description=None):
 
     try:
         completion = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             messages=[
                 {
                     "role": "system",
