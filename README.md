@@ -70,6 +70,10 @@ The application analyzes resumes, extracts skills, evaluates strengths and weakn
 Clone the repository:
 
 
+live option:
+https://ai-resume-analyzer-9vh5kjwbqxmqubhzbee9pc.streamlit.app/explore
+
+
 
 ```bash
 
